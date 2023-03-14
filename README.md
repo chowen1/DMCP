@@ -8,4 +8,4 @@ as a more general multiagent partially observed Markov decision process (POMDP).
 
 Chonghao Zhao, Gang Wu, Wenhui Xiong. Decentralized Multiagent Reinforcement Learning-based Cooperative Perception with Dual-functional Radar-Communication V2V Links. 2023 ICC. [Accpected]
 
-For any use of the codes, please explicitly cite this paper.
+**For any use of the codes, please explicitly cite this paper.**
