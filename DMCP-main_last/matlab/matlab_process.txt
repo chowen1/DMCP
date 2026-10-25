@@ -1,0 +1,2 @@
+reward求平均：plot(mean(show_reward,2))
+aoi cdf: plotcdf(proposedAoi(:,1))
